@@ -13,15 +13,23 @@ Daniela Diaz Gaviria y Sebastian Gutierrez Franco
 ## Lenguajes utilizados
 
 *HTML
+
 *CSS 
+
 *JavaScript
+
+*TypeSsript
 
 ## Hecho con
 
 *Angular
+
 *Visual Studio Code
+
 *Post man
+
 *Git y Github
+
 *Mongo 
 
 
